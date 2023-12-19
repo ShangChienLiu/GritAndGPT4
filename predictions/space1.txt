@@ -1,0 +1,8 @@
+Image size: 1243x738 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-474, 85, 379, 353] a light green umbrella
+[-78, -55, 88, 90] the ball is round
+[37, -126, 98, -65] a white baseball
+[-619, -363, 619, 352] dark background behind yellow and white object
+[-212, 90, 179, 325] the reflection of the sun
+[-15, 179, 50, 226] a white circle in the middle of the board

@@ -1,0 +1,14 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[307, 112, 951, 531] silver car parked on the street
+[60, 131, 243, 293] the car is gray in color
+[176, -168, 303, -45] a green and white sign
+[-415, 263, -146, 535] red line on the road
+[-959, 225, -196, 533] a row of bushes
+[267, 144, 514, 332] white car parked on street
+[-177, 163, -114, 257] motorcycle parked on the sidewalk
+[-740, -536, 86, 279] green tree on the sidewalk
+[-939, -538, -739, 334] a tall wooden pole
+[-252, 89, -205, 145] red and white stop sign
+[672, 134, 959, 267] the windshield of a car
+[715, 320, 957, 455] red tail light on a car

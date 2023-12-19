@@ -1,0 +1,12 @@
+Image size: 261x193 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-77, -81, -17, -48] a silver car on the street
+[2, -74, 38, 31] police officer standing in street
+[-117, -64, -32, 88] man in yellow vest
+[-129, -83, -76, -40] a yellow car on the street
+[53, -57, 97, 82] woman wearing a white shirt
+[108, -86, 127, -24] a person is standing
+[55, -78, 96, -29] man wearing white head covering
+[-130, -79, -108, -16] person sitting on motorcycle
+[36, -64, 66, 52] woman carrying white shopping bag
+[-128, -92, 127, 94] people crossing the street

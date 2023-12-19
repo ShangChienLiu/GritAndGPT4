@@ -1,0 +1,24 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-310, 85, 157, 488] white van on the road
+[-136, 234, -19, 291] license plate on the car
+[471, 47, 771, 534] person riding a motorcycle
+[-747, 30, -504, 522] a man on a motorcycle
+[-888, -442, -432, -190] a white sign with red letters
+[-735, 114, -525, 305] the shirt is white
+[501, 143, 738, 350] a red shirt on a man
+[-669, -207, -443, 102] the blue sign on the building
+[-550, 370, -297, 536] double yellow lines on the road
+[232, 152, 347, 362] person riding a motorcycle
+[547, 48, 652, 153] the helmet is black
+[-739, 388, -635, 441] license plate on the motorcycle
+[-956, 158, -779, 404] a white truck on the road
+[382, -272, 740, 25] a tall green glass building
+[-929, 56, 936, 525] people riding scooters
+[-394, 185, -295, 267] the car is black
+[52, -99, 373, -28] signs on the building
+[-676, 29, -579, 122] white helmet on the man
+[754, -129, 954, 120] palm tree behind the bus
+[-755, 292, -533, 534] the motorcycle is black and white
+[-959, -524, 949, 531] a city street scene
+[356, 110, 521, 409] person riding a motorcycle

@@ -1,0 +1,4 @@
+Image size: 1730x740 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-864, -364, 850, 358] a white cat
+[-163, -180, 112, -15] the hole in the middle of the toothbrush

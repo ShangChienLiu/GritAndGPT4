@@ -1,0 +1,18 @@
+Image size: 1515x718 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[62, -260, 162, -158] round blue sign with white arrows
+[-755, 165, -647, 353] man wearing a helmet
+[3, 80, 298, 171] the sign is red and white
+[-62, -237, 66, -162] a blue sign on a building
+[-307, -154, -217, 98] the sign is orange
+[-307, 198, 0, 353] a man and a woman riding a scooter
+[359, -13, 417, 166] a green sign with white writing
+[-14, -89, 340, 29] a green sign with a picture of a person on it
+[-757, 204, -657, 299] the shirt is green
+[-734, -354, 742, 347] a street scene
+[-549, 192, -490, 310] motorcycle on the sidewalk
+[-754, -4, -456, 222] white building with green awnings
+[-737, 160, 738, 337] the sidewalk
+[-737, 165, -684, 213] a gray helmet on a man
+[-64, -260, 165, -155] the sign is blue
+[-136, 192, -43, 342] a person on a scooter

@@ -1,0 +1,10 @@
+Image size: 500x333 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-158, -77, 201, 79] black and white police car
+[-249, 38, -204, 85] planter with green plant in it
+[-224, 40, 218, 165] yellow lines on the road
+[-212, 29, -158, 81] a small green bush
+[-189, -56, -131, 47] a parked silver motorcycle
+[-135, 28, -101, 51] the license plate on the car
+[-12, 8, 40, 76] a front car tire
+[211, -71, 249, 43] a large stone pillar

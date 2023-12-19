@@ -1,0 +1,16 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[111, 181, 211, 259] car on the road
+[-324, 154, -250, 312] person crossing the street
+[242, -377, 864, 374] the tree is green
+[-392, 154, -310, 313] woman wearing a white coat
+[-144, 311, 60, 385] white arrow on the road
+[-958, 203, 928, 538] the yellow lines on the road
+[-957, -487, -854, 97] a yellow colored banner
+[-753, 185, -714, 280] person wearing white shirt
+[-416, 51, -347, 141] white sign with red triangle
+[-569, 180, -528, 272] woman wearing a skirt
+[6, 182, 59, 226] car on the road
+[-864, -483, -117, 117] a tall building
+[856, -229, 959, -93] white sign with blue letters
+[-960, -526, 954, 532] a city street scene

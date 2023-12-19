@@ -1,0 +1,24 @@
+Image size: 1456x797 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-725, 274, -536, 391] yellow taxi cab
+[479, 258, 638, 347] white car parked on the street
+[-369, -304, -42, 332] a tall street light
+[-680, 277, 665, 375] white lines on the road
+[-350, -48, -40, 44] a traffic signal
+[-285, 258, -196, 335] a black van in street
+[-347, -41, -208, 37] a sign on a pole
+[-353, 272, -278, 330] a white car on the road
+[6, 263, 61, 307] the car is black
+[-182, -43, -45, 33] traffic light is green
+[238, 259, 275, 321] a person riding a motorcycle
+[62, 20, 243, 249] a tall building
+[575, -323, 605, -258] the number is black
+[-720, -387, 724, 397] a city street scene
+[-425, 282, -368, 322] car parked on the street
+[-63, 261, -19, 298] yellow taxi driving on road
+[-269, -28, -216, 23] blue circle on sign
+[-55, 151, -8, 197] green and white banner on the pole
+[328, -122, 724, 326] the trees are green
+[550, -396, 623, -179] sign hanging on building
+[217, -393, 633, 200] a tall building with many windows
+[-358, -292, -40, -37] a street light

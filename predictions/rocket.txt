@@ -1,0 +1,8 @@
+Image size: 1703x774 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-24, 73, 237, 274] the snowboarder is wearing a helmet
+[-851, -380, 851, 367] dark sky filled with dark trees
+[-850, -342, -177, 371] a large stone wall
+[77, -239, 135, -179] a clock on a building
+[-499, -375, 765, 112] the dark sky
+[-24, 80, 77, 156] the head of a person

@@ -1,0 +1,2 @@
+Image size: 640x428 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:

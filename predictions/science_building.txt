@@ -1,0 +1,16 @@
+Image size: 1774x768 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[329, 227, 447, 378] person wearing a plaid shirt
+[761, 15, 866, 357] a sign with directions on it
+[-813, 202, -734, 280] blue and white sign
+[5, 210, 124, 376] person wearing a black hat
+[-114, 209, 134, 373] white van behind the man
+[-887, -374, 887, 352] the trees are tall
+[-208, 273, -151, 324] car on the road
+[-10, -377, 855, 364] a tall green tree
+[-355, -27, -211, 94] a tall building
+[107, 80, 374, 346] a large building behind the man
+[-751, -240, -517, -117] traffic light with green light on
+[-737, -181, -531, -126] blue sign on the building
+[18, -372, 406, 355] tall tree in front of building
+[-790, -363, -151, 329] a street light on a pole

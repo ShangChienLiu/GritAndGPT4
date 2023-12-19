@@ -1,0 +1,19 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[243, 57, 510, 530] person riding a motorcycle
+[-494, -183, 78, 316] a large green tree
+[338, 396, 444, 461] license plate on the motorcycle
+[-189, 198, -36, 333] a person riding a motorcycle
+[-918, 295, 867, 516] the road
+[-388, 236, -300, 312] silver car parked on street
+[331, 60, 422, 143] yellow helmet on the person
+[-649, -39, 555, 531] the people are enjoying their day
+[464, 158, 541, 327] man wearing white shirt
+[299, 311, 477, 522] the back of a motorcycle
+[63, 141, 200, 223] a yellow sign with a red heart on it
+[546, -48, 625, 13] green and white street sign
+[82, 92, 195, 147] red sign with white letters
+[-957, -532, 678, -28] white clouds in the sky
+[-957, -46, -885, 34] a traffic signal
+[-8, 28, 61, 98] yellow and black sign
+[-533, 240, -485, 315] motorcycle on the road

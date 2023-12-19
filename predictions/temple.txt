@@ -1,0 +1,18 @@
+Image size: 1231x653 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-228, 75, 23, 320] white van with front windshield wiper
+[-426, 134, -340, 238] a person riding a scooter
+[195, 109, 416, 155] a white car parked on the street
+[-375, -223, 189, -36] building with a red roof
+[-412, 139, -365, 227] person wearing a helmet
+[-614, -280, -360, -24] trees behind the building
+[-114, 211, -56, 238] license plate on the car
+[-614, -323, 613, -37] a clear blue sky
+[343, 147, 578, 310] white fence beside road
+[-168, 94, -8, 167] back window of a car
+[-507, 90, -463, 134] black and yellow banner on the wall
+[197, 279, 361, 321] yellow lettering on the road
+[559, 87, 612, 312] a sign with a yellow stripe
+[-415, 177, -345, 235] a red moped
+[-60, 29, 103, 140] a sign on a building
+[-615, -155, 614, 293] this is a building

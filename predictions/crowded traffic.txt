@@ -1,0 +1,20 @@
+Image size: 994x582 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-142, 72, 133, 285] the car is blue
+[-465, 80, -211, 264] black car on the road
+[199, 96, 438, 265] blue car on street
+[406, 14, 472, 84] an orange and white sign
+[-489, 65, 474, 281] cars on the street
+[-480, -280, -243, 92] a palm tree
+[308, -94, 363, -68] a green and white street sign
+[-255, 92, -146, 219] a black car on the road
+[128, -241, 292, 109] a palm tree
+[-24, -63, 6, -22] a traffic light
+[97, 101, 192, 184] a car on a street
+[-39, 166, 32, 202] license plate on the car
+[-494, -279, 495, 285] a busy city street
+[-242, -253, -207, -110] red and black sign
+[-479, -277, -246, -99] a large palm tree
+[-380, 155, -333, 182] license plate on the car
+[75, -26, 131, -6] a blue street sign
+[447, 0, 485, 55] red and white street sign

@@ -1,0 +1,19 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-315, -38, 239, 533] white van with front windshield wiper
+[-595, 214, -341, 393] car is in the street
+[397, -88, 958, 382] large blue and white building
+[-224, 0, 150, 173] back window of a car
+[-677, -94, -582, -11] red sign on the building
+[-106, 292, 27, 356] license plate on the white car
+[203, 19, 433, 373] the back of a red truck
+[-852, 242, -615, 381] blue car parked on street
+[-678, -194, -544, -124] green light on the pole
+[455, -466, 599, -315] window on the building
+[470, -194, 605, -76] window on a building
+[-148, 273, 74, 371] license plate on the white car
+[741, -456, 880, -309] window on the building
+[-955, 359, 960, 528] yellow lines on the road
+[762, -187, 890, -76] window on a building
+[-813, 308, -768, 388] orange and white cone
+[-1, 83, 150, 170] the word station on the windshield

@@ -1,0 +1,15 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[193, 87, 256, 270] the man is wearing a green shirt
+[297, 84, 575, 262] black and white car parked on street
+[664, 3, 782, 510] the metal sign post
+[-953, 103, 813, 535] the road is clear
+[441, -13, 507, 74] red and white sign
+[-485, 332, -257, 535] yellow lines on the road
+[-233, 105, -176, 196] a red and white sign
+[198, 110, 250, 169] the green shirt the man is wearing
+[-955, 144, -668, 413] chain link fence on side of road
+[-278, 169, -243, 227] orange and white cone
+[-954, -534, -386, 275] the tree is green
+[-957, -527, 954, 522] the trees lining the road
+[-428, -386, -103, 238] tree with green leaves

@@ -1,0 +1,22 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-204, 26, 26, 490] man wearing white shorts
+[419, 34, 596, 518] man wearing a white hat
+[106, 85, 303, 500] man wearing white shirt
+[-458, 173, -375, 315] a person riding a scooter
+[-539, -39, -447, 53] a red and white sign
+[-780, -53, -700, 84] red sign with white letters
+[238, -221, 328, 12] a blue and white banner
+[368, -376, 485, -73] the sign is yellow
+[641, -435, 958, -124] a large advertisement on the side of a building
+[451, 94, 584, 305] the man is wearing a white shirt
+[312, -308, 378, -29] a business promotional sign
+[-575, 173, -489, 315] person on red scooter
+[-108, 30, -36, 99] the man is wearing a white hat
+[-21, 35, 217, 479] man with a backpack walking on the street
+[-940, 304, 925, 515] white lines painted on the road
+[-176, 107, -50, 275] a backpack on a mans back
+[403, -240, 454, -202] the letter is red
+[-325, 14, 648, 523] people crossing the street
+[-334, 104, -8, 428] the scooter is black
+[479, -369, 576, -59] banner hanging on the building

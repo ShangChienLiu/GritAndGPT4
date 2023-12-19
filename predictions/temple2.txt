@@ -1,0 +1,8 @@
+Image size: 290x174 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-144, -85, 141, 86] a market with red umbrellas
+[-79, 12, 87, 84] red and white striped awning
+[-129, 2, 42, 72] the roof is red
+[98, -87, 144, -34] a tall red building
+[-107, -86, -33, -52] a crane on the building
+[-116, -86, 116, -23] a cloudy blue sky

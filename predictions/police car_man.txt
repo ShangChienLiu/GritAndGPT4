@@ -1,0 +1,13 @@
+Image size: 275x183 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-90, -32, -56, 72] man standing next to a white truck
+[-99, -18, 70, 72] black car on the road
+[113, -26, 135, 50] man standing next to white car
+[59, -16, 137, 43] a white car
+[-137, -20, -103, 27] a white car on the road
+[31, -27, 60, 21] a man wearing a black hat
+[-112, -24, -94, 24] man in a blue shirt and black pants
+[2, -23, 15, -4] person walking on the sidewalk
+[-135, -39, 134, 81] people standing in the street
+[20, -50, 123, -7] a yellow building
+[53, -22, 107, 0] a white car in the street

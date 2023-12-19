@@ -1,0 +1,22 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-394, -10, 346, 531] a silver minivan in street
+[-955, 68, -384, 530] the car is silver
+[483, 86, 724, 466] a man on a motorcycle
+[-114, 273, 44, 345] license plate on the car
+[605, -537, 947, -320] a sign on a building
+[522, -73, 959, 42] white sign with red lettering
+[-764, 5, -383, 288] green bus on the street
+[615, 338, 697, 388] license plate on the motorcycle
+[510, 252, 725, 468] the motorcycle is black
+[503, 135, 663, 283] the shirt is striped
+[-959, -35, 785, 523] cars on the street
+[-916, -31, -853, 31] round blue sign with white arrows
+[-337, 11, 278, 249] the windshield of a car
+[-407, -538, 481, 43] the sky is blue
+[708, -262, 752, -134] the flag is red and blue
+[-290, 183, 244, 488] the car is white
+[-807, -45, -746, 14] red and white sign
+[-925, 207, -761, 298] red tail light on a car
+[-101, 37, 168, 186] the windshield of a car
+[436, -536, 960, 3] the facade of a building

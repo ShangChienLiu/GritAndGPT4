@@ -1,0 +1,13 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[67, 123, 284, 311] the car is silver in color
+[209, -236, 359, -88] a business promotional sign
+[348, 136, 710, 387] a car on a street
+[412, 283, 528, 388] tire on the car
+[295, 106, 948, 420] the car is silver
+[-288, 80, -238, 135] red and white stop sign
+[-885, -535, 64, 281] green tree on the sidewalk
+[-954, 234, -263, 534] the bushes are green
+[-906, 253, 893, 523] the black paved road
+[-417, 273, -172, 533] red paint on the curb
+[-184, 180, -127, 272] motorcycle on the sidewalk

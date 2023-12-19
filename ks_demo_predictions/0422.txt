@@ -1,0 +1,17 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[404, -487, 775, -282] brown sign with white writing
+[61, 154, 222, 310] a person on a scooter
+[683, 148, 857, 317] the car is blue
+[329, -57, 635, 53] the sign is yellow
+[-889, 322, 900, 506] white lines on the street
+[-9, -537, 153, -310] sign in front of building
+[-958, 184, -829, 342] a person riding a scooter
+[353, -219, 593, -61] window on a building
+[-149, -118, -53, -27] white sign with red and black
+[359, 64, 603, 130] red sign with white lettering
+[333, 157, 394, 295] a white sign on the sidewalk
+[-536, 210, -450, 281] plant is in a planter
+[750, -224, 902, -77] window on a building
+[-960, -532, 960, 517] photo taken during the day
+[-382, -165, -291, -118] traffic light is yellow

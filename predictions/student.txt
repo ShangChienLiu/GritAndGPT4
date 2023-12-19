@@ -1,0 +1,9 @@
+Image size: 1259x549 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[383, -161, 557, 131] tree trunk is leaning
+[71, 57, 133, 223] person wearing a white shirt
+[-629, -267, 624, 262] the trees are green
+[135, 52, 201, 230] person walking with umbrella
+[64, 40, 230, 235] two people walking on a sidewalk
+[151, 44, 236, 92] the umbrella is black
+[194, -6, 623, 268] green bushes in the right side

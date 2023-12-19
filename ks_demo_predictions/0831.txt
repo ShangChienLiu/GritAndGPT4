@@ -1,0 +1,17 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[385, 56, 953, 531] black car on the street
+[-956, 170, -653, 395] black suv on the street
+[-496, 191, -289, 341] the cab is yellow
+[805, 335, 959, 411] license plate on the car
+[46, 200, 137, 281] yellow car on the road
+[-218, -290, 28, 246] a tall street light
+[-274, 208, -157, 295] car is in the street
+[-834, 255, -86, 532] the curb of a sidewalk
+[-162, 348, 4, 423] white arrow on the road
+[271, 165, 464, 371] black car is parked
+[385, -52, 478, 6] blue street sign on a pole
+[-957, 56, 960, 526] cars on the road
+[536, 268, 747, 377] red tail light on a car
+[-960, -536, 960, 224] the white clouds in the blue sky
+[-382, -286, 323, 256] tall tree with green leaves

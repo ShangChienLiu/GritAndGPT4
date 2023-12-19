@@ -1,0 +1,7 @@
+Image size: 1073x600 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-75, 138, 14, 212] white dog laying down
+[-517, -295, -398, 194] a tree trunk
+[-444, -230, 420, 287] a dog near a tree
+[-533, 6, 532, 294] the ground is brown
+[-120, 108, 54, 246] a white horse on the ground

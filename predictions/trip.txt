@@ -1,0 +1,16 @@
+Image size: 1145x642 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-225, 170, -41, 314] the car is white
+[-227, -247, 208, 256] a tall green tree
+[275, 155, 401, 307] person on a motorcycle
+[420, -320, 505, -233] blue sign with white writing
+[51, -47, 197, 13] black and white sign
+[319, -257, 391, -29] a sign on the building
+[68, 198, 189, 293] car driving on road
+[311, 154, 358, 200] a white helmet on the man
+[196, -319, 571, 303] tall building with painted green paint
+[-371, 209, -330, 243] a car on the street
+[-571, -313, 572, 307] the buildings in the city
+[-275, 196, -216, 254] a car on a street
+[121, 155, 413, 318] man on a motorbike
+[317, 46, 386, 118] a sign on the building

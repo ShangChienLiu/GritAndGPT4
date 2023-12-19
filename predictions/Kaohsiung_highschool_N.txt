@@ -1,0 +1,12 @@
+Image size: 1430x801 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-121, -373, -16, -267] red and white sign
+[-712, 100, -457, 307] white car has red light
+[-447, 103, -313, 234] the car is black in color
+[93, -280, 239, -178] green and white street sign
+[-249, -347, -122, -273] a traffic light
+[417, -2, 705, 342] a white ice cream truck
+[-183, 127, -138, 212] person riding a motorcycle
+[-209, -367, 137, 196] tall tree with green leaves
+[-110, -277, -7, -229] a white sign with black letters
+[-629, -71, -587, 57] the sign is orange

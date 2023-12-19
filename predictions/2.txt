@@ -1,0 +1,17 @@
+Image size: 1434x799 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-224, 65, 106, 351] white van on the road
+[349, 32, 553, 396] person riding a motorcycle
+[-101, 173, -17, 212] license plate on the car
+[-679, -343, -328, -156] a sign that says donuts
+[-439, 56, -300, 348] a man on a scooter
+[-513, -165, -340, 74] the sign is blue
+[362, 103, 526, 251] a red shirt on a person
+[-438, 204, -321, 355] the motorcycle is black
+[235, 81, 358, 361] a person on a motorcycle
+[-425, 292, -222, 397] double yellow lines painted on the road
+[-428, 103, -313, 209] the shirt is white
+[399, 34, 478, 109] the helmet is black
+[319, -206, 562, 10] tall white building with many windows
+[-427, 253, -366, 288] license plate on the motorcycle
+[-717, 60, 709, 391] people are enjoying the outdoors

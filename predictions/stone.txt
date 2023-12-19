@@ -1,0 +1,12 @@
+Image size: 1236x583 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[166, -173, 316, 261] tall silver light post
+[-615, -288, -255, 278] the trees are green
+[-293, 185, -133, 289] yellow lines on the road
+[-341, -287, 617, 148] a clear blue sky
+[332, 49, 615, 260] decorative pillars on a building
+[28, 7, 93, 199] light post on the sidewalk
+[-609, 177, 172, 288] a paved road
+[39, 5, 612, 271] the building is white
+[251, -162, 300, 256] tall gray metal light post
+[8, 153, 305, 291] sidewalk beside the building

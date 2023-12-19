@@ -1,0 +1,7 @@
+Image size: 1627x796 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-774, -389, 789, 393] the white snow on the ground
+[-216, 44, 53, 285] the umbrella is white
+[-748, 53, 29, 396] a snowboard
+[-403, 209, -209, 333] the writing is blue
+[-455, 292, -383, 360] red and white sticker on the black suitcase

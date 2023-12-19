@@ -1,0 +1,1 @@
+python demo.py --test-task DenseCap --config-file configs/GRiT_B_DenseCap_ObjectDet.yaml --input demo_images --output visualizations --output_preds predictions --LLM gpt-4 --opts MODEL.WEIGHTS models/grit_b_densecap_objectdet.pth

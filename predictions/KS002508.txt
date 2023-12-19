@@ -1,0 +1,13 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-466, 175, 268, 394] a white canvas ramp
+[21, 372, 446, 506] the green bush is in the foreground
+[-668, 129, -484, 362] a tree in a field
+[-950, 307, -432, 535] a large green bush
+[-960, -525, 952, 510] the trees are lush and green
+[559, -527, 767, 363] tall tree trunk in the foreground
+[-212, 238, -133, 324] blue and white symbol on the white umbrella
+[-122, 391, -20, 487] green bush in the dirt
+[155, -60, 420, 64] a wooden bridge
+[-125, 260, 116, 348] the writing is in black
+[-959, 141, 957, 533] the grass is green

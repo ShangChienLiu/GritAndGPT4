@@ -1,0 +1,16 @@
+Image size: 1259x549 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[250, 145, 300, 252] a man riding a bicycle
+[-629, -268, 627, 147] white clouds in the sky
+[459, -57, 562, 158] a tall building
+[179, 153, 220, 252] person riding a bicycle
+[202, -97, 370, 245] tree planted near water
+[-229, 107, -188, 132] a black and white street sign
+[519, 138, 626, 210] a large white ship
+[170, 143, 310, 258] person riding a bicycle
+[-48, -50, 169, 241] the trees are tall
+[-44, -21, 68, 227] tree in the grass
+[-279, 79, -246, 114] a round sign with a white line
+[-628, -28, -525, 151] the tree is green
+[-312, 79, -246, 116] a traffic light in the sky
+[-626, -105, -465, 269] a street light on a pole

@@ -1,0 +1,8 @@
+Image size: 846x635 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[158, 92, 345, 307] white van with long black tires
+[-275, 161, -134, 236] yellow car in parking lot
+[-34, 76, 162, 226] white bus in front of building
+[-388, 161, -268, 221] a white car parked
+[-422, 183, -366, 277] a white car
+[-271, 80, -166, 107] a parked silver car

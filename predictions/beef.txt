@@ -1,0 +1,18 @@
+Image size: 1404x798 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-233, 222, -93, 336] the car is black
+[-569, 251, -386, 353] the car is yellow in color
+[-65, -394, 700, 341] tree is full of leaves
+[246, 221, 393, 337] car is in the street
+[-282, -207, -196, -53] crane is red and white
+[-506, 49, -444, 108] sign on the building
+[-505, -97, -441, -38] white sign with red letters
+[-507, -314, -443, -255] a business promotional sign
+[-507, -24, -440, 37] white sign with red letters
+[-364, -75, -84, 257] a tree in a city
+[-387, 244, -262, 326] black car parked on street
+[-505, -169, -442, -110] white sign with red letters
+[-505, -243, -443, -182] sign on the building
+[-666, 120, -506, 350] green tree beside of building
+[24, 238, 86, 289] car on the road
+[-106, 237, -45, 294] car on the road

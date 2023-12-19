@@ -1,0 +1,16 @@
+Image size: 1268x706 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[318, 14, 627, 208] the car is parked
+[216, 12, 284, 219] the man is wearing a uniform
+[-629, 77, 353, 349] yellow lines on the road
+[-199, 68, -156, 138] red and white sign
+[-632, -347, -372, 225] the trees are green
+[-374, 113, -229, 173] orange cones on the walkway
+[-260, 116, -230, 164] orange cone on the sidewalk
+[-634, -342, 634, 315] the trees are green
+[223, 45, 277, 107] a green and black jacket
+[-397, -308, -71, 157] tree with green leaves
+[426, 128, 509, 206] back tire of the car
+[-370, 125, -342, 173] orange and white cone
+[-13, 121, 330, 344] a yellow line on the road
+[-143, -78, -19, -17] the signs are green

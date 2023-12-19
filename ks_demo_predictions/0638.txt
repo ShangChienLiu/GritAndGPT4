@@ -1,0 +1,17 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-770, 121, -397, 389] the car is silver
+[82, -534, 947, 532] the bus is white in color
+[-195, 114, -72, 356] a person riding a motorcycle
+[-69, 156, 56, 262] the back of a black car
+[-507, 385, -292, 537] two yellow lines on the road
+[-288, 179, -191, 260] black car on the road
+[-675, 290, -590, 338] license plate on the car
+[701, -34, 775, 39] red light on the back of the bus
+[-549, -23, -393, 46] a white and green traffic sign
+[712, 162, 788, 237] red tail light on the van
+[-953, -529, 957, 525] picture taken outdoors
+[-575, -178, -429, 154] a street light on a pole
+[1, -263, 103, 24] tall building in the distance
+[706, 65, 780, 136] orange light on the back of the bus
+[-957, -523, -618, 253] the tree is green

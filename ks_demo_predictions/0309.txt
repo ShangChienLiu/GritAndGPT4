@@ -1,0 +1,15 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-282, -35, -5, 327] the back of a bus
+[-912, 290, 823, 522] the road is black
+[607, 179, 665, 256] graffiti on the wall
+[-530, 281, -467, 416] orange cone on the sidewalk
+[-960, -523, 959, 511] the trees are green
+[244, 38, 285, 236] light on the sidewalk
+[-581, 299, -512, 437] orange cone on the street
+[-235, 32, -53, 83] the bus has a digital sign on it
+[-246, 26, -40, 129] back window of a bus
+[-583, 279, -462, 440] two orange cones on the street
+[-960, -530, -283, 310] trees on the sidewalk
+[349, 141, 414, 265] red and white sign
+[-529, 9, -399, 266] a street light

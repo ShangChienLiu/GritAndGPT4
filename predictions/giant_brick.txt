@@ -1,0 +1,17 @@
+Image size: 1556x709 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-294, -145, 218, 250] red building with a large window
+[-770, 203, -516, 346] white car parked on the street
+[630, -48, 732, 23] white sign with black lettering
+[-778, -348, 765, 283] a red building with white trim
+[-771, -51, -412, 100] the roof is grey
+[-769, -58, -368, 263] a building with a green roof
+[0, 173, 65, 270] two people walking together
+[170, -34, 415, 235] the tree is tall
+[329, 181, 375, 290] person wearing white shirt
+[-208, 192, -165, 275] the trash can is black
+[119, -110, 456, -39] a metal pole with light
+[416, 150, 469, 311] person wearing a backpack
+[-460, 139, -339, 265] graffiti on the wall
+[295, 171, 378, 293] two people walking on the sidewalk
+[-741, 214, 650, 329] yellow lines on the street

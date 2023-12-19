@@ -1,0 +1,23 @@
+Image size: 1060x596 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-241, 148, 245, 232] green shrubbery near the building
+[-287, 208, 280, 271] a flower bed
+[-36, 36, 31, 148] door on the building
+[-104, -47, 111, 31] the sign is on the building
+[-90, -23, 85, 15] a design on the front of the building
+[-523, -290, 524, 264] the building is made of brick
+[-127, 38, -77, 150] a window on a building
+[-506, -284, -319, -175] black and white sign
+[72, 39, 120, 147] a window on a building
+[-251, -130, 251, 227] a brick structure
+[-362, 195, -278, 261] metal gate
+[-509, 5, -416, 267] pillar on the building
+[-362, 95, -276, 260] the door is closed
+[-199, -62, 190, 153] a brown brick building
+[-25, -296, 14, -107] a white pole on top of the church
+[321, 102, 349, 138] a red and white sign
+[409, 47, 503, 264] concrete pillar on a side walk
+[-513, -294, -316, 268] a tall street light
+[304, 100, 351, 254] black metal gate in front of building
+[-494, -216, -397, -179] the sign says all way
+[-205, -220, -51, -87] a building in the background

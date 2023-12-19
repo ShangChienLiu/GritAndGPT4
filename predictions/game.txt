@@ -1,0 +1,17 @@
+Image size: 949x788 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[125, 232, 254, 325] the car is white
+[-176, 223, -85, 307] the car is moving
+[-88, -257, 263, 246] green leaves on tree
+[309, -158, 389, 142] black sign with white writing
+[-344, 280, -170, 393] double yellow lines on the road
+[47, 218, 111, 337] person riding a motorcycle
+[-449, -107, -256, 257] tree is on the sidewalk
+[-312, -175, -247, -58] red and yellow sign
+[-51, 215, 7, 339] person riding a motorcycle
+[-474, 197, 472, 383] cars on the street
+[-470, -391, 246, 6] a clear blue sky
+[384, -75, 458, 134] a sign on the building
+[366, 243, 472, 344] a parked white moped
+[-400, -240, -336, -167] a large white sign
+[-471, 249, -168, 391] a yellow stripe on the road

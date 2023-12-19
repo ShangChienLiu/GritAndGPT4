@@ -1,0 +1,19 @@
+Image size: 1323x818 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-69, 240, 110, 382] the car is white
+[-366, -57, -165, 332] a green pole with a street sign
+[406, 0, 657, 384] the big white bus
+[440, 182, 655, 399] a car in the street
+[293, 252, 366, 383] person wearing orange shirt
+[-364, -59, -221, -23] a street sign
+[211, 245, 276, 362] person riding a motorcycle
+[-658, -316, -550, -240] a black and white sign
+[-174, 260, -114, 306] yellow car on the road
+[-628, 176, -441, 204] a black and white sign
+[-479, -398, 109, 157] white clouds in the sky
+[253, 65, 376, 181] window on a building
+[160, 241, 209, 345] a person on a motorcycle
+[64, -396, 170, 160] a tall blue and white building
+[289, 83, 357, 164] woman wearing white pants
+[-658, 287, -570, 349] a black car
+[-79, 218, 119, 254] a black and white sign

@@ -1,0 +1,14 @@
+Image size: 1192x277 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-428, 22, -323, 110] back of a truck
+[-522, 36, -459, 85] a white car on the road
+[-280, 28, -235, 115] man riding a motorcycle
+[-449, 36, -415, 94] a red car driving down the road
+[-325, 38, -285, 79] a black car on the road
+[115, -60, 592, 76] a grey cement wall
+[-575, 42, -544, 59] a white car
+[246, -136, 304, 130] a red and white striped pole
+[292, -54, 591, 54] a concrete wall
+[253, 72, 305, 134] white chair on the grass
+[304, 51, 592, 134] the hedge is trimmed
+[-293, 17, -219, 125] a person riding a motorcycle

@@ -1,0 +1,17 @@
+Image size: 1514x706 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-257, 229, -137, 310] red car on the road
+[-39, 222, 52, 297] the car is white
+[532, 231, 726, 316] motorcycles parked on the sidewalk
+[-611, -206, 596, 336] the building is made of brick
+[454, -38, 523, 158] red sign with chinese writing
+[-301, -9, -233, 182] red sign with chinese writing
+[150, -26, 218, 167] red banner with asian characters
+[-425, -349, 319, -133] the roof is green
+[341, 214, 434, 281] white car parked on street
+[424, 224, 472, 306] person riding a motorcycle
+[-288, -217, 198, -100] the building has a lot of windows
+[655, 216, 756, 274] yellow car on the street
+[96, 278, 369, 350] white lines in the street
+[75, 221, 134, 275] the car is gray
+[-153, -213, 61, -110] window on a building

@@ -1,0 +1,14 @@
+Image size: 1024x683 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-167, -80, 82, -8] red and white sign
+[-141, 0, 87, 271] the cement base of the tower
+[295, -111, 402, 249] the clock is on the corner
+[-148, -175, -43, -99] white cloud in sky
+[-443, -83, -392, 169] a tall street light
+[-319, -104, 379, 267] a small stone archway
+[322, -94, 365, -53] the white and blue clock
+[-23, 65, 20, 178] window on the building
+[-512, -336, 512, 127] a clear blue sky
+[180, 154, 218, 237] person standing on sidewalk
+[-198, 188, -177, 222] an orange traffic cone
+[318, -56, 376, -28] gold letters on the building

@@ -1,0 +1,13 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-543, 193, -309, 340] a red car on the road
+[133, 257, 951, 537] white lines in the street
+[-385, -88, -308, 144] red sign with chinese writing
+[-23, 194, 71, 273] the car is silver
+[-954, -509, 896, 356] a large business building
+[93, 196, 154, 257] car on the road
+[-853, 188, 881, 535] the road
+[542, -126, 633, 120] red sign with chinese writing
+[-502, -479, 341, -213] the roof is green
+[170, -109, 256, 137] the sign is red
+[-959, 15, -927, 154] blue and white sign on the building

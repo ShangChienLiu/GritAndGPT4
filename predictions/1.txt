@@ -1,0 +1,11 @@
+Image size: 1434x802 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[41, 79, 237, 253] the car is gray in color
+[325, 89, 710, 343] the van is parked
+[177, -249, 318, -112] a sign hanging from a building
+[-181, 102, -127, 220] person riding motorcycle on street
+[-702, 178, -218, 396] the bushes are green
+[-261, 49, -218, 98] red and white stop sign
+[406, 235, 524, 344] tire on the car
+[-712, -396, -9, 248] large tree on the sidewalk
+[-202, 50, -172, 84] a blue sign on a building

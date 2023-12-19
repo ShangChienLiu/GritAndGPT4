@@ -1,0 +1,14 @@
+Image size: 1675x733 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-288, 18, -205, 216] a red and white sign
+[-835, 211, -444, 360] a grey metal railing
+[-749, -275, -568, 225] a street light on a pole
+[-830, 221, 794, 361] the road is wet
+[-833, -357, 835, 349] the scene takes place outdoors
+[-271, 56, -217, 203] red and white striped snowboard
+[321, -358, 430, 194] a tall tree trunk
+[501, 111, 662, 247] a green tree on the hillside
+[-526, -362, -64, 120] green tree beside the road
+[273, -356, 473, 248] a tall tree trunk
+[-492, 264, 130, 361] yellow lines on the road
+[-223, -27, 314, 245] a hill with brown grass

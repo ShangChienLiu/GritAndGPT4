@@ -1,0 +1,5 @@
+Image size: 1025x582 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[187, 63, 481, 195] a black and white pickup truck
+[113, 87, 145, 196] a fire hydrant on the sidewalk
+[225, 41, 256, 84] a red stop sign

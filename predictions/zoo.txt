@@ -1,0 +1,21 @@
+Image size: 1019x711 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[288, -212, 410, 322] a long white banner with black writing
+[-341, 70, 13, 351] white van on the road
+[-311, -355, -131, 0] green and brown signs with white lettering
+[-273, 85, -27, 218] back window of a car
+[220, -120, 297, -30] white sign with black letters
+[-491, 142, -396, 277] two people riding a moped
+[-249, -145, 235, 205] green leaves on trees
+[-9, 151, 165, 325] white car parked in front of building
+[-131, 158, -36, 205] white letters on the car
+[-508, -351, 508, 342] a scene during the day time
+[-198, 282, -113, 322] license plate on the white car
+[-301, -245, -139, -203] sign on the building
+[-301, -214, -139, -170] green and white sign
+[-228, 263, -78, 332] license plate on the white car
+[-298, -287, -140, -244] green and white sign
+[-387, -354, -315, -71] a business promotional sign
+[-508, 117, -461, 176] blue truck parked on the street
+[302, -180, 358, -94] a white and blue sign with a p
+[-299, -171, -140, -128] sign on a building

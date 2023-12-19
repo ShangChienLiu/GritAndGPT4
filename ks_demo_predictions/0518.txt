@@ -1,0 +1,18 @@
+Image size: 1920x1080 
+List of object coordinates [x1, y1, x2, y2] and object descriptions:
+[-83, 134, 231, 329] van has red lights
+[626, 134, 959, 306] car is in the street
+[280, 126, 444, 373] two people on a moped
+[-673, 141, -560, 306] man riding a bicycle
+[-553, -451, -450, -235] a red banner with asian characters on it
+[-874, 325, 903, 515] white lines on the street
+[-411, 10, -321, 100] a business promotional sign
+[-339, 171, -215, 278] blue van parked on street
+[-122, 150, -67, 279] man riding a motorcycle
+[771, -158, 922, 154] tall tree in front of building
+[527, 112, 794, 273] white suv at the curb
+[-207, -116, -140, 51] a purple sign with white letters
+[-44, -58, 14, 88] a blue sign on a building
+[-950, -530, 960, 523] photo was taken in the daytime
+[-447, -150, -349, -96] traffic light is red
+[-868, 109, -651, 321] phone booth on the sidewalk
